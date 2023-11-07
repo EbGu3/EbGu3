@@ -1,3 +1,4 @@
+<img src="https://www.notion.so/images/page-cover/woodcuts_1.jpg" style="width:100%;height:25rem;">
 <h1 align="center">Ciao 😄, Yo Soy Eber Guerra</h1>
 <h3 align="center">Soy un hombre 😎, que encuentra divertido y retador programar 🤯. Siempre hay algo nuevo que aprender ⚡. Grazie Dio 😄</h3>
 
